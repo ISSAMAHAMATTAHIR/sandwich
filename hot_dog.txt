@@ -2,3 +2,4 @@ viande
 sel
 Tomate
 huile
+farine
